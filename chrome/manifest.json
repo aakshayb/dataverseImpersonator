@@ -1,0 +1,16 @@
+{
+    "name": "Dataverse Impersonator",
+    "version": "1.0",
+    "description": "Use this extension to impersonate another user in dataverse",
+    "permissions": ["storage", "declarativeContent", "webRequest", "webRequestBlocking", "<all_urls>"],
+    "optional_permissions": ["activeTab"],
+    "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": true
+    },
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+    "manifest_version": 2
+  }
