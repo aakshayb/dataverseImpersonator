@@ -8,7 +8,7 @@ Impersonation Tool for dataverse
 
 ![image](https://user-images.githubusercontent.com/8094988/119896072-61149000-bef3-11eb-9d0e-53bc944c954e.png)
 
-4. Click on "Load Unpacked" button and choose the folder where you cloned this repository
+4. Click on "Load Unpacked" button and choose the folder named "chrome" where you cloned this repository
 
 ![image](https://user-images.githubusercontent.com/8094988/119896320-b8b2fb80-bef3-11eb-8f82-e385b1b268e8.png)
 
